@@ -1,0 +1,16 @@
+ls: xem toàn  bộ file code trong thư mục
+mkdir < tên file muốn tạo >
+cd URL: dùng  để truy cập vào 1 file trong terminal
+cd ../ quay lại thư mục trước đó
+git add <tên file>: dùng để đưa từng file vào 
+git add . : đưa tất cả các file vào chuẩn  bị
+git init: tạo ra file git để lưu các dữ liệu vào git
+git rm --cached <tên file>: xóa các file đã đưa vào chuẩn bị để đưa lên cloud
+git commit -m: chú thích vào 1 file nào đó
+git status : được sử dụng để hiển thị trạng thái của khu vực lưu trữ 
+git log: check lịch sử commit 
+git reset --hard : reset và loại bỏ tất cả sự thay đổi của file sau thời điểm commit reset.
+git reflog:  cho phép bạn xem lại lịch sử các commit và thao tác trên các nhánh và HEAD trên local repository của bạn, bất kể có bị xoá hay không
+git cherry-pick: khôi phục lại 1 file sau khi bị xóa 
+git config -global alias.<tên viết tắt> <tên đầy đủ>: giúp viết gọn lại 1 câu lệnh trong terminal
+git remote set-url origin <url>: sét lại một đường dẫn khác trên github

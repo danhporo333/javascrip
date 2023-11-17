@@ -1,0 +1,2 @@
+Node.js là một hệ thống phần mềm được thiết kế để viết các ứng dụng internet có khả năng mở rộng, 
+đặc biệt là máy chủ web. Chương trình được viết bằng JavaScript
