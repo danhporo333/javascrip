@@ -1,0 +1,16 @@
+javascrip có 8 kiểu dữ liệu
+1. String
+2. Number
+3. Bigint
+4. Boolean
+5. Undefined
+6. Null
+7. Symbol
+8. Object
+
+typeof: dùng để xuất kiểu dữ liệu của 1 biến ( hoặc gọi là cho biết biến đó có kiểu dữ liệu gì).
+
+các kiểu khai báo
+ưu tiên sử dụng const cho những dữ liệu ko muốn thay đổi
+và sử dụng let cho những dữ liệu muốn thay đổi trong tương lai
+
